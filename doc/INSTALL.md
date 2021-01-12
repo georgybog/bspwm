@@ -39,3 +39,5 @@
 - [Chakra](https://chakraos.org/ccr/packages.php?ID=6537)
 
 - [Exherbo](http://git.exherbo.org/summer/packages/x11-wm/bspwm)
+
+- [Solus](https://dev.getsol.us/source/bspwm/)
